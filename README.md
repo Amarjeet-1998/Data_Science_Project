@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/58102638/185446640-a7e09ae1-c59a-4b86-9c2f-15c9ba829fee.png)
 
-Fundamental analysis (you can read more about it here):
+**Fundamental analysis (you can read more about it here):**
 
 Evaluates a company’s stock by examining its intrinsic value, including but not limited to tangible assets, financial statements, management effectiveness, strategic initiatives, and consumer behaviors; essentially all the basics of a company.
 
@@ -12,7 +12,7 @@ Generally speaking, the results from fundamental analysis don’t change with sh
 
 
 
-Technical analysis (you can read more about it here):
+**Technical analysis (you can read more about it here):**
 
 Analyzes measurable data from stock market activities, such as stock prices, historical returns, and volume of historical trades; i.e. quantitative information that could identify trading signals and capture the movement patterns of the stock market.
 
